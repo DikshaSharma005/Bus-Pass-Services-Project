@@ -3,6 +3,7 @@
   .imtext{
     width:fit-content;
     float:left;
+  
   }
   
   .logoimg{
@@ -10,7 +11,9 @@
     display: inline;
   }
   .logotext{
-    font-size: 32px;
+    font-size: 34px;
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
   }
  /*Navigation*/
  .navig{
@@ -33,16 +36,11 @@
   
   }
   .heading{
-    background-color:pink;
     padding-left: 0%;
     padding-top: 0%;
     padding-bottom: 0%;
+  
   }
- 
-.dropdown-menu{
-  background-color:black;
- 
-}
 
 .dropdown-menu>li>a {
   color: white;
